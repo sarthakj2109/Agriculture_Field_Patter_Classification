@@ -1,4 +1,6 @@
 # Agriculture Field Pattern Classification using Deep Learning
+Solving a multi-class classification problem of classifying aerial RGB farmland images based on patterns like standing water, weed cluster, cloud shadow, etc. using deep learning models like DCNN and pre-trained models like VGG-16, ResNet50, InceptionV3, EfficientNet and DetNet using transfer learning techniques.
+
 This project was developed and trained using Google Colaboratory. It uses tensorflow version 2.5.1
 
 The src folder contains the source code.
